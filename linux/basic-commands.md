@@ -1,0 +1,12 @@
+ls
+cd
+pwd
+mkdir
+rm
+cp
+mv
+cat
+nano
+vim
+clear
+history
