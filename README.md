@@ -1,3 +1,7 @@
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![Debian](https://img.shields.io/badge/OS-Debian-red)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![DevOps](https://img.shields.io/badge/Focus-DevOps-purple)
 # Aura Systems - Docker Debian Homelab
 
 Personal infrastructure and containerization lab built on Debian Server using Docker technologies.
