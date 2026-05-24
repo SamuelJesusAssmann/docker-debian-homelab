@@ -7,6 +7,8 @@ Personal infrastructure and Docker lab built on Debian Server.
 - Docker
 - Docker Compose
 - Redis
+- Portainer
+- Up-time Kuma
 
 ## Goals
 - Learn Linux administration
