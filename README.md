@@ -129,3 +129,11 @@ docker-debian-homelab/
 ├── troubleshooting/
 ├── screenshots/
 └── README.md
+```
+
+## Related Projects
+
+🔗 [Aura Lab](https://github.com/SamuelJesusAssmann/Aura-Lab/)
+
+This repository is part of the Aura Lab infrastructure.
+This repository is part of the Aura Lab infrastructure./
